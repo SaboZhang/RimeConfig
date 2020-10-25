@@ -42,6 +42,7 @@ Rime新手使用此方案，可以快速上手简体中文和常用英语的混�
 - `luna_pinyin.kaomoji.dict.yaml`：搜狗颜文字
 - `luna_pinyin_simp.chaizi.dict.yaml`：搜狗U模式拆字字库
 - `luna_pinyin.idiom.dict.yaml`：俗语、谚语词库
+- `luna_pinyin.sougou.dict.yaml`：搜狗基础词库跟部分细胞词库的整合，包含我个人的搜狗同步的词库。
 
 ## 皮肤界面
 直接上效果图吧
