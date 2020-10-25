@@ -6,9 +6,10 @@
 # 在不切换键盘/不寻找符号键盘的前提下，通过拼写中英文显示其他外语或者符号
 # 遵循公认英文或拼音拼写的原则，不为方便个人习惯而生造编码。
 # 如：α的英文拼写为alpha，“の”在中文中已经在和“的（de）”互换。
+# 基于原版增加部分专有名词以及中英混输名词
 ---
 name: melt_mult_language
-version: "2020.08.22"
+version: "2020.10.25"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -105,7 +106,6 @@ Cond	cond
 Copperplate	copperplate
 Corsiva	corsiva
 Cortana	cortana
-CPU	cpu
 Curio	curio
 Cydia	cydia
 CentOS	centos

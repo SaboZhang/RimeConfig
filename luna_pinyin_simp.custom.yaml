@@ -1,4 +1,5 @@
 # luna_pinyin_simp.custom.yaml
+# Version 2020.10.25
 patch:
 # 配置translator，便于管理词库
   translator/dictionary: luna_pinyin_simp.config
