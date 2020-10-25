@@ -12,29 +12,35 @@ patch:
   #"style/inline_preedit": true # 嵌入式候选窗单行显示
 
 
-  #"style/layout/border_width": 0
-  #"style/layout/border": 0
-  #"style/layout/margin_x": 8 #候选字左右边距
-  #"style/layout/margin_y": 8 #候选字上下边距
-  #"style/layout/hilite_padding": 8 #候选字背景色色块高度 若想候选字背景色块无边界填充候选框，仅需其高度和候选字上下边距一致即可
-  #"style/layout/hilite_spacing": 3 # 序号和候选字之间的间隔
-  #"style/layout/spacing": 10 #不知道干嘛的，在weasel下好像没有效果
-  #"style/layout/candidate_spacing": 12 # 候选字间隔
-  #"style/layout/round_corner": 8 #候选字背景色块圆角幅度
+  "style/layout/border_width": 0
+  "style/layout/border": 0
+  "style/layout/margin_x": 8 #候选字左右边距
+  "style/layout/margin_y": 8 #候选字上下边距
+  "style/layout/hilite_padding": 8 #候选字背景色色块高度 若想候选字背景色块无边界填充候选框，仅需其高度和候选字上下边距一致即可
+  "style/layout/hilite_spacing": 3 # 序号和候选字之间的间隔
+  "style/layout/spacing": 10 #不知道干嘛的，在weasel下好像没有效果
+  "style/layout/candidate_spacing": 12 # 候选字间隔
+  "style/layout/round_corner": 8 #候选字背景色块圆角幅度
 
-
-  "style/color_scheme": qbycs
-  "preset_color_schemes/qbycs":
-    name: "qbycs"
+  # Windows10自带输入法风格
+  "style/color_scheme": Windows10
+  "preset_color_schemes/Windows10":
+    name: "Windows10"
     author: "Rick😺"
-    #back_color: 0xEDEDED #候选框 背景色 
-    #border_color: 0xEDEDED #候选框 边框颜色 
-    #text_color: 0x000000 #已选择字 文字颜色 
-    #hilited_text_color: 0xFF0008 #已选择字右侧拼音 文字颜色 
-    #hilited_back_color: 0xEDEDED #已选择字右侧拼音 背景色
-    #hilited_candidate_text_color: 0x000000 #候选字颜色
-    #hilited_candidate_back_color: 0xFDD5B4 #候选字背景色
-    #candidate_text_color: 0x545454 #未候选字颜色 
+    back_color: 0xEDEDED #候选框 背景色 
+    border_color: 0xEDEDED #候选框 边框颜色 
+    text_color: 0x000000 #已选择字 文字颜色 
+    hilited_text_color: 0xFF0008 #已选择字右侧拼音 文字颜色 
+    hilited_back_color: 0xEDEDED #已选择字右侧拼音 背景色
+    hilited_candidate_text_color: 0x000000 #候选字颜色
+    hilited_candidate_back_color: 0xFDD5B4 #候选字背景色
+    candidate_text_color: 0x545454 #未候选字颜色 
+
+  # P站风格配色
+  "style/color_scheme": :P
+  "preset_color_schemes/:P":
+    name: ":P"
+    author: "Rick😺"
     back_color: 0x000000
     label_color: 0xffffff
     border_color: 0x000000
