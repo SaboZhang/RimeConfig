@@ -6,6 +6,7 @@
 Rime新手使用此方案，可以快速上手简体中文和常用英语的混合输入。
 原作者GitHub仓库地址：https://github.com/tumuyan/rime-pinyin-simp
 
+
 ## 使用方法
 * 目前本方案没有加入东风破，需要下载文件并放置到方案目录来使用。 
 1. [下载文件](https://codeload.github.com/SaboZhang/RimeConfig/zip/main)、解压文件并复制到`Rime用户文件夹`内。GitHub下载慢可以使用[Gitee镜像下载](https://gitee.com/tao_SaboZhang/RimeConfig);用戶資料夾位置：  
