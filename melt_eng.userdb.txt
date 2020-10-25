@@ -1,0 +1,15 @@
+# Rime user dictionary
+#@/db_name	melt_eng.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	23
+#@/user_id	RimeConfig
+Mac 	Mac	c=1 d=0.909373 t=23
+appal 	appal	c=1 d=0.941765 t=23
+danger 	danger	c=1 d=1 t=23
+iexplorer 	iExplorer	c=1 d=0.980199 t=23
+power 	power	c=1 d=0.937067 t=23
+qq 	QQ	c=1 d=0.913931 t=23
+watchos 	watchOS	c=1 d=0.970446 t=23
+youku 	Youku	c=1 d=0.923116 t=23
+youtube 	YouTube	c=1 d=0.918512 t=23

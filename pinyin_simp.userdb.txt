@@ -1,0 +1,25 @@
+# Rime user dictionary
+#@/db_name	pinyin_simp.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	23
+#@/user_id	RimeConfig
+biao qing 	表情	c=1 d=0.923116 t=23
+chai zi 	拆字	c=1 d=0.951229 t=23
+ci ku 	词库	c=3 d=2.85047 t=23
+hun 	混	c=1 d=0.941765 t=23
+ji 	机	c=2 d=1.99501 t=23
+kan kan 	看看	c=1 d=0.913931 t=23
+kong jian 	空间	c=1 d=0.985112 t=23
+pan 	盘	c=1 d=0.97531 t=23
+qiong qiong jie li 	茕茕孑立	c=1 d=0.995012 t=23
+qun 	群	c=1 d=0.99005 t=23
+shen me 	什么	c=1 d=0.918512 t=23
+sheng pi zi 	生僻字	c=1 d=0.985112 t=23
+sou gou 	搜狗	c=2 d=1.90727 t=23
+su yu 	俗语	c=1 d=0.927743 t=23
+uhuohuohuohuo 	燚	c=1 d=1 t=23
+wei ruan 	微软	c=1 d=0.970446 t=23
+xi bao 	细胞	c=1 d=0.980199 t=23
+zhong ying wen 	中英文	c=1 d=0.937067 t=23
+zi ku 	字库	c=1 d=0.955997 t=23

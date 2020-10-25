@@ -1,0 +1,16 @@
+---
+name: luna_pinyin_simp.config
+version: "2020.6.7"
+sort: by_weight
+use_preset_vocabulary: true
+# 此处为 输入法所用到的词库，既补充拓展词库的地方
+import_tables:
+  - luna_pinyin.sougou
+  - luna_pinyin
+  - luna_pinyin_simp.chaizi
+  - luna_pinyin.kaomoji
+  - luna_pinyin.emoji.cldr
+  - easy_en
+  - luna_pinyin.idiom
+  - luna_pinyin.cn_en
+... 

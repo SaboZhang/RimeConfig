@@ -1,0 +1,35 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	39
+#@/user_id	RimeConfig
+an zhuang 	安裝	c=2 d=1.9415 t=39
+ba 	把	c=1 d=0.932394 t=39
+biao dian fu hao 	標點符號	c=1 d=0.99005 t=39
+bu shi 	不是	c=1 d=0.904837 t=39
+chong xin 	重新	c=2 d=1.93181 t=39
+ci ku 	詞庫	c=1 d=0.97531 t=39
+dao ru 	導入	c=1 d=0.965605 t=39
+de 	的	c=1 d=0.960789 t=39
+en 	嗯	c=1 d=0.985112 t=39
+en 	恩	c=1 d=0.980199 t=39
+fang huo qiang 	防火牆	c=1 d=0.909373 t=39
+han shu 	函數	c=1 d=0.937067 t=39
+lie biao 	列表	c=0 d=0.0927743 t=39
+lie biao shan chu 	列表刪除	c=1 d=0.932394 t=39
+mu biao 	目標	c=2 d=1.91221 t=39
+ni 	你	c=1 d=0.927743 t=39
+pi fu 	皮膚	c=1 d=0.900325 t=39
+shan chu 	刪除	c=1 d=1.03926 t=39
+she zhi 	設置	c=1 d=0.985112 t=39
+shi 	是	c=3 d=2.71937 t=39
+shu ju 	數據	c=1 d=0.965605 t=39
+shu ru fa 	輸入法	c=3 d=2.72599 t=39
+sou gou 	搜狗	c=1 d=0.970446 t=39
+xia biao 	下標	c=1 d=0.955997 t=39
+xiao lang hao 	小狼毫	c=3 d=2.71239 t=39
+xie zai 	卸載	c=1 d=0.937067 t=39
+yi xia 	一下	c=2 d=1.95123 t=39
+zhe ge 	這個	c=2 d=1.80562 t=39
+zhi ding 	指定	c=1 d=0.951229 t=39

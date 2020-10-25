@@ -1,0 +1,111 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin_simp.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	182
+#@/user_id	RimeConfig
+a 	啊	c=1 d=0.486752 t=182
+an zhuang 	安裝	c=1 d=0.506617 t=182
+ba 	吧	c=1 d=0.66365 t=182
+ba 	把	c=1 d=0.56836 t=182
+bie yong 	別用	c=1 d=0.588605 t=182
+bu diao 	不掉	c=0 d=0.0579842 t=182
+bu qi zuo yong 	不起作用	c=1 d=0.600496 t=182
+bu xing 	不行	c=1 d=0.438235 t=182
+ci hui 	詞彙	c=1 d=0.763379 t=182
+ci ku 	詞庫	c=7 d=5.2053 t=182
+da xiao 	😄	c=1 d=0.744532 t=182
+da xie 	大寫	c=5 d=4.78213 t=182
+de 	的	c=8 d=4.11926 t=182
+di er ge 	第二個	c=1 d=0.891366 t=182
+di san fang 	第三方	c=1 d=0.509156 t=182
+diao 	掉	c=2 d=1.17345 t=182
+dou 	豆	c=1 d=0.923116 t=182
+en 	嗯	c=4 d=2.27666 t=182
+en 	恩	c=1 d=0.499074 t=182
+false 	false	c=1 d=0.826959 t=182
+fu 	負	c=0 d=0.0603506 t=182
+fu wu 	服務	c=1 d=0.634448 t=182
+fu you hua 	負優化	c=1 d=0.606531 t=182
+gao diao 	搞掉	c=1 d=0.57695 t=182
+geng xin 	更新	c=3 d=1.44145 t=182
+github 	GitHub	c=1 d=0.965605 t=182
+gu ji 	估計	c=1 d=0.666977 t=182
+ha ha 	哈哈	c=1 d=0.733447 t=182
+ha ha 	😺	c=2 d=1.64983 t=182
+hai shi 	還是	c=1 d=0.436049 t=182
+he bing 	合併	c=2 d=1.41301 t=182
+hou xuan 	候選	c=1 d=0.985112 t=182
+hui 	會	c=2 d=1.06971 t=182
+hui zi dong 	會自動	c=1 d=0.516851 t=182
+hun shu 	混輸	c=1 d=0.88692 t=182
+i phone 	iphone	c=1 d=0.786628 t=182
+ji lu 	記錄	c=1 d=0.644036 t=182
+jia ru 	加入	c=1 d=0.729789 t=182
+jiao 	叫	c=1 d=0.628135 t=182
+jin 	禁	c=0 d=0.0579842 t=182
+jin bu diao 	禁不掉	c=1 d=0.582748 t=182
+jin yong 	禁用	c=4 d=2.1039 t=182
+jiu 	就	c=1 d=0.474734 t=182
+jue de 	覺得	c=1 d=0.45612 t=182
+ka dun 	卡顿	c=1 d=0.960789 t=182
+kan 	看	c=1 d=0.410656 t=182
+kan kan 	看看	c=1 d=0.496585 t=182
+le 	了	c=1 d=0.451581 t=182
+li mian 	裏面	c=1 d=0.647265 t=182
+lian xiang 	聯想	c=1 d=0.806541 t=182
+liang tian 	兩天	c=1 d=0.66034 t=182
+mei you 	沒有	c=1 d=0.546074 t=182
+mo ren 	默認	c=1 d=0.412714 t=182
+na 	那	c=1 d=0.470011 t=182
+na jiu shi 	那就是	c=1 d=0.440432 t=182
+neng 	能	c=1 d=0.565525 t=182
+ni 	你	c=5 d=2.55195 t=182
+pei se 	配色	c=1 d=0.869358 t=182
+pi fu 	皮膚	c=6 d=4.83915 t=182
+ran hou 	然後	c=1 d=0.404542 t=182
+ru guo 	如果	c=1 d=0.433874 t=182
+ruan jian 	軟件	c=3 d=1.51719 t=182
+sha du 	殺毒	c=5 d=2.56109 t=182
+she me 	什麼	c=2 d=1.26524 t=182
+she zhi 	設置	c=4 d=2.60385 t=182
+shi 	是	c=3 d=1.65866 t=182
+shi bie 	識別	c=1 d=0.927743 t=182
+shi shi 	試試	c=1 d=0.408608 t=182
+shi yong 	適用	c=1 d=0.740818 t=182
+shou zi mu 	首字母	c=5 d=4.75828 t=182
+shu ru 	輸入	c=2 d=1.7109 t=182
+shu ru fa 	輸入法	c=4 d=3.41734 t=182
+sou gou 	搜狗	c=4 d=3.12686 t=182
+true 	true	c=1 d=0.852144 t=182
+wei 	爲	c=1 d=0.767206 t=182
+wen ti 	問題	c=4 d=2.1408 t=182
+xi bao 	細胞	c=1 d=0.765169 t=182
+xi bao ci ku 	細胞詞庫	c=2 d=1.57724 t=182
+xi tong 	系統	c=2 d=0.86802 t=182
+xian 	先	c=1 d=0.65377 t=182
+xiao lang hao 	小狼毫	c=5 d=4.02144 t=182
+xie zai 	卸載	c=2 d=0.966306 t=182
+xiu gai 	修改	c=1 d=0.843665 t=182
+ye jiu 	也就	c=1 d=0.562705 t=182
+yi ban 	一般	c=1 d=0.50409 t=182
+yi ge 	一個	c=1 d=0.625002 t=182
+ying gai 	應該	c=1 d=0.527292 t=182
+ying wen 	英文	c=5 d=4.30599 t=182
+yong 	用	c=1 d=0.657047 t=182
+you hua 	優化	c=2 d=1.29868 t=182
+you mei you 	有沒有	c=1 d=0.615697 t=182
+yuan jiao 	圓角	c=1 d=0.847894 t=182
+zai 	再	c=1 d=0.40657 t=182
+zai 	在	c=1 d=0.637628 t=182
+zen me 	怎麼	c=1 d=0.71177 t=182
+zhao zhao 	找找	c=1 d=0.612626 t=182
+zhong ying 	中英	c=1 d=0.882497 t=182
+zhu shou 	助手	c=1 d=0.574072 t=182
+zhuan huan 	轉換	c=1 d=0.802519 t=182
+zhuan you 	專有	c=1 d=0.790571 t=182
+zhuan you ming ci 	專有名詞	c=1 d=0.774916 t=182
+zi 	字	c=1 d=0.895834 t=182
+zi dai 	自帶	c=4 d=1.92061 t=182
+zi dong 	自動	c=0 d=0.0514274 t=182
+zui jin 	最近	c=3 d=1.43185 t=182
