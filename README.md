@@ -9,7 +9,7 @@ Rime新手使用此方案，可以快速上手简体中文和常用英语的混�
 
 ## 使用方法
 * 目前本方案没有加入东风破，需要下载文件并放置到方案目录来使用。 
-1. [下载文件](https://codeload.github.com/SaboZhang/RimeConfig/zip/main)、解压文件并复制到`Rime用户文件夹`内。GitHub下载慢可以使用[Gitee镜像下载](https://gitee.com/tao_SaboZhang/RimeConfig);用戶資料夾位置：  
+1. [下载文件](https://github.com/SaboZhang/RimeConfig/releases)、解压文件并复制到`Rime用户文件夹`内。GitHub下载慢可以使用[Gitee镜像下载](https://gitee.com/tao_SaboZhang/RimeConfig);用戶資料夾位置：  
     * 【中州韻】 ~/.config/ibus/rime/ （0.9.1 以下版本爲 ~/.ibus/rime/）
     * 【小狼毫】 %APPDATA%\Rime
     * 【鼠鬚管】 ~/Library/Rime/
@@ -42,6 +42,7 @@ Rime新手使用此方案，可以快速上手简体中文和常用英语的混�
 - `luna_pinyin.kaomoji.dict.yaml`：搜狗颜文字
 - `luna_pinyin_simp.chaizi.dict.yaml`：搜狗U模式拆字字库
 - `luna_pinyin.idiom.dict.yaml`：俗语、谚语词库
+- `luna_pinyin.sougou.dict.yaml`：搜狗基础词库跟部分细胞词库的整合，包含我个人的搜狗同步的词库。
 
 ## 皮肤界面
 直接上效果图吧
