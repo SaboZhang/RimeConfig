@@ -2,20 +2,26 @@
 # encoding: utf-8		
 #		
 # Easy English Nano使用的英文主词典，主要构成为2016考研词汇大纲和六级单词，数据量6K条。
-#	原作version 2017.03.31@tanzi	
-#	修订version 2020.09.02@tumuyan
+#	原作version 2017.03.31 by tanzi	
+#	修订version by tumuyan
 #	2019.10	把原省略字符的字典，改为全文字典，并进行了一些扩展
 #	2020.08	添加大写单词（放置在词典顶部），并对词条排序
 
 ---	
 name: melt_eng		
-version: "2020.10.02"		
+version: "2021.02.17"		
 #sort: by_weight		
 use_preset_vocabulary: true		
 import_tables:
 # 英文及中英混输词库
   - melt_mult_language
 ...	
+Trojan	Trojan	100
+AVAST!	AVAST	100
+Bitdefender	Bitdefender	100
+ClamAV	ClamAV	100
+Comodo	Comodo	100
+McAfee	McAfee	100
 OK	OK	100
 NG	NG	100
 TRUE	TRUE	100
@@ -55,6 +61,7 @@ Wire	Wire	100
 Guard	Guard	100
 GND	GND	100
 VCC	VCC	100
+API	API	100
 Alt+	Alt+	100
 Ctrl+	Ctrl+	100
 Shift+	Shift+	100
@@ -72,8 +79,8 @@ C++	cpp	100
 Python	Python	100
 Perl	Perl	100
 Javascript	Javascript	100
-Java	Java	100
 Swift	Swift	100
+nginx	nginx	100
 MIT	MIT	100
 LGPL	LGPL	100
 Mozilla	Mozilla	100
@@ -93,7 +100,9 @@ Nexus	Nexus	100
 Pixel	Pixel	100
 Wii U	WiiU	100
 Wii	Wii	100
+Oracle	Oracle	100
 Chrome	Chrome	100
+Chromium	Chromium	100
 iPhone	iPhone	100
 iPad	iPad	100
 iPod	iPod	100
@@ -682,6 +691,7 @@ basin	basin	100
 basis	basis	100
 basket	basket	100
 basketball	basketball	100
+bass	bass	100
 bat	bat	100
 batch	batch	100
 bath	bath	100
@@ -1705,6 +1715,7 @@ dimension	dimension	100
 diminish	diminish	100
 dine	dine	100
 dinner	dinner	100
+diode	diode	100
 dioxide	dioxide	100
 dip	dip	100
 diploma	diploma	100
@@ -1724,6 +1735,7 @@ disappoint	disappoint	100
 disaster	disaster	100
 disastrous	disastrous	100
 disc	disc	100
+disco	disco	100
 discard	discard	100
 discern	discern	100
 discharge	discharge	100
@@ -1966,6 +1978,7 @@ emigrate	emigrate	100
 eminent	eminent	100
 emission	emission	100
 emit	emit	100
+emitter	emitter	100
 emotion	emotion	100
 emperor	emperor	100
 emphasis	emphasis	100
@@ -2410,6 +2423,7 @@ foul	foul	100
 found	found	100
 foundation	foundation	100
 fountain	fountain	100
+foundry	foundry	100
 four	four	100
 fourteen	fourteen	100
 fowl	fowl	100
@@ -2530,6 +2544,7 @@ get	get	100
 ghost	ghost	100
 giant	giant	100
 gift	gift	100
+giga	giga	100
 gigantic	gigantic	100
 giggle	giggle	100
 ginger	ginger	100
@@ -2654,8 +2669,6 @@ gut	gut	100
 gutter	gutter	100
 guy	guy	100
 gymnasium	gymnasium	100
-GitHub 	github 100
-Gitter	gitter 100
 habit	habit	100
 habitat	habitat	100
 hail	hail	100
@@ -3433,6 +3446,7 @@ lung	lung	100
 lure	lure	100
 luxurious	luxurious	100
 luxury	luxury	100
+lyric	lyric	100
 machine	machine	100
 machinery	machinery	100
 mad	mad	100
@@ -3509,6 +3523,7 @@ mate	mate	100
 material	material	100
 mathematical	mathematical	100
 maths	maths	100
+matlab	matlab	100
 matrix	matrix	100
 matter	matter	100
 mature	mature	100
@@ -3540,6 +3555,7 @@ meditation	meditation	100
 medium	medium	100
 meet	meet	100
 meeting	meeting	100
+mega	mega	100
 melancholy	melancholy	100
 melody	melody	100
 melon	melon	100
@@ -3596,6 +3612,7 @@ military	military	100
 milk	milk	100
 milky	milky	100
 mill	mill	100
+milli	milli	100
 millimeter	millimeter	100
 million	million	100
 millionaire	millionaire	100
@@ -3684,6 +3701,7 @@ morning	morning	100
 mortal	mortal	100
 mortgage	mortgage	100
 mosaic	mosaic	100
+MOSFET	MOSFET	100
 mosque	mosque	100
 mosquito	mosquito	100
 moss	moss	100
@@ -3740,6 +3758,7 @@ naive	naive	100
 naked	naked	100
 name	name	100
 namely	namely	100
+nano	nano	100
 nap	nap	100
 napkin	napkin	100
 narration	narration	100
@@ -4193,6 +4212,7 @@ phase	phase	100
 phenomenon	phenomenon	100
 philosopher	philosopher	100
 philosophy	philosophy	100
+phoenix	phoenix	100
 phone	phone	100
 photo	photo	100
 photoelectric	photoelectric	100
@@ -4209,6 +4229,7 @@ pick	pick	100
 pickle	pickle	100
 pickup	pickup	100
 picnic	picnic	100
+pico	pico	100
 picture	picture	100
 pie	pie	100
 piece	piece	100
@@ -4574,7 +4595,6 @@ quiver	quiver	100
 quiz	quiz	100
 quota	quota	100
 quote	quote	100
-QQ	qq	100
 rabbit	rabbit	100
 race	race	100
 racial	racial	100
@@ -4776,6 +4796,7 @@ repression	repression	100
 reproach	reproach	100
 reproduce	reproduce	100
 reproduction	reproduction	100
+repository	repository	100
 reptile	reptile	100
 republic	republic	100
 republican	republican	100
@@ -5662,6 +5683,7 @@ tensile	tensile	100
 tension	tension	100
 tent	tent	100
 tentative	tentative	100
+tera	tera	100
 term	term	100
 terminal	terminal	100
 terminate	terminate	100
@@ -5866,6 +5888,7 @@ treasure	treasure	100
 treasurer	treasurer	100
 treat	treat	100
 treaty	treaty	100
+treble	treble	100
 tree	tree	100
 tremble	tremble	100
 tremendous	tremendous	100

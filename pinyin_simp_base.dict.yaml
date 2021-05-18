@@ -8,7 +8,7 @@
 
 ---
 name: luna_pinyin.xiandaihanyuchangyongcibiao
-version: "2018.10.05"
+version: "2021.05.18"
 sort: by_weight
 use_preset_vocabulary: false
 ...

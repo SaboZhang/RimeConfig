@@ -2,14 +2,45 @@
 #@/db_name	melt_eng.userdb
 #@/db_type	userdb
 #@/rime_version	1.5.3
-#@/tick	23
+#@/tick	92
 #@/user_id	RimeConfig
-Mac 	Mac	c=1 d=0.909373 t=23
-appal 	appal	c=1 d=0.941765 t=23
-danger 	danger	c=1 d=1 t=23
-iexplorer 	iExplorer	c=1 d=0.980199 t=23
-power 	power	c=1 d=0.937067 t=23
-qq 	QQ	c=1 d=0.913931 t=23
-watchos 	watchOS	c=1 d=0.970446 t=23
-youku 	Youku	c=1 d=0.923116 t=23
-youtube 	YouTube	c=1 d=0.918512 t=23
+Java 	Java	c=1 d=1 t=50
+Mac 	Mac	c=1 d=0.909373 t=92
+Python 	Python	c=19 d=16.2988 t=92
+Windows 	Windows	c=6 d=5.90608 t=92
+able 	able	c=1 d=1 t=90
+age 	age	c=3 d=2.98506 t=79
+appal 	appal	c=1 d=0.941765 t=92
+break 	break	c=1 d=1 t=83
+choose 	choose	c=5 d=4.94548 t=75
+class 	class	c=1 d=1 t=67
+danger 	danger	c=1 d=1 t=92
+emoji 	Emoji	c=1 d=0.960789 t=92
+fetch 	fetch	c=1 d=1 t=66
+for 	for	c=1 d=1 t=64
+from 	from	c=1 d=0.965605 t=92
+game 	game	c=1 d=1 t=61
+gender 	gender	c=1 d=1 t=76
+github 	GitHub	c=7 d=5.22229 t=92
+global 	global	c=4 d=3.86094 t=87
+have 	have	c=1 d=1 t=41
+iexplorer 	iExplorer	c=1 d=0.980199 t=92
+lab 	lab	c=3 d=2.8883 t=56
+markdown 	MarkDown	c=2 d=1.99501 t=54
+name 	name	c=3 d=2.89771 t=56
+nice 	nice	c=1 d=1 t=42
+outlook 	outlook	c=1 d=1 t=91
+power 	power	c=1 d=0.937067 t=92
+print 	print	c=8 d=7.50724 t=69
+qq 	QQ	c=1 d=0.913931 t=92
+query 	query	c=1 d=1 t=88
+return 	return	c=2 d=1.99501 t=82
+screen 	screen	c=1 d=1 t=62
+student 	student	c=1 d=1 t=85
+style 	style	c=1 d=1 t=66
+token 	token	c=1 d=1 t=53
+watchos 	watchOS	c=1 d=0.970446 t=92
+while 	while	c=2 d=1.92774 t=63
+youku 	Youku	c=1 d=0.923116 t=92
+youtube 	YouTube	c=1 d=0.918512 t=92
+zhongzhouyun 	Rime	c=6 d=4.78725 t=92
