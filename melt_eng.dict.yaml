@@ -9,13 +9,22 @@
 
 ---	
 name: melt_eng		
-version: "2021.02.17"		
+version: "2024.04.04"		
 #sort: by_weight		
 use_preset_vocabulary: true		
 import_tables:
 # 英文及中英混输词库
   - melt_mult_language
+# 用户自定义词库
+  - melt_eng_custom
 ...	
+SoC	SoC	100
+AA	AA	100
+aptX	aptX	100
+LDAC	LDAC	100
+AAC	AAC	100
+SBC	SBC	100
+COVID-19	COVID	100
 Trojan	Trojan	100
 AVAST!	AVAST	100
 Bitdefender	Bitdefender	100
@@ -33,6 +42,7 @@ MCU	MCU	100
 RAM	RAM	100
 ROM	ROM	100
 SSD	SSD	100
+OLED	OLED	100
 NVMe	NVMe	100
 M.2	M2	100
 NGFF	NGFF	100
@@ -41,6 +51,7 @@ SATA	SATA	100
 eSATA	eSATA	100
 mSATA	mSATA	100
 USB	USB	100
+Type-C	Type-C	100
 GPIB	GPIB	100
 GPIO	GPIO	100
 Mac	Mac	100
@@ -70,7 +81,7 @@ Ethernet	Ethernet	100
 SOCKS	SOCKS	100
 PrintScreen	PrintScreen	100
 Backspace	Backspace	100
-DIY DIY 100
+DIY	DIY	100
 DNA	DNA	100
 RNA	RNA	100
 mRNA	mRNA	100
@@ -110,6 +121,7 @@ MacBook	MacBook	100
 UI	UI	100
 DirectX	DirectX	100
 Kinect	Kinect	100
+GUNDAM	GUNDAM	100
 Azure	Azure	100
 Cloudflare	Cloudflare	100
 April	April	100
@@ -444,7 +456,7 @@ analogy	analogy	100
 analyse	analyse	100
 analysis	analysis	100
 analytic	analytic	100
-analytic(al)	analytic(al)	100
+analytical	analytical	100
 ancestor	ancestor	100
 anchor	anchor	100
 ancient	ancient	100
@@ -456,6 +468,7 @@ angle	angle	100
 angry	angry	100
 anguish	anguish	100
 animal	animal	100
+animation	animation	100
 ankle	ankle	100
 anniversary	anniversary	100
 announce	announce	100
@@ -928,7 +941,6 @@ bush	bush	100
 bushel	bushel	100
 business	business	100
 busy	busy	100
-but	but	100
 butcher	butcher	100
 butt	butt	100
 butter	butter	100
@@ -1310,6 +1322,7 @@ confess	confess	100
 confidence	confidence	100
 confident	confident	100
 confidential	confidential	100
+config	config	100
 confine	confine	100
 confirm	confirm	100
 conflict	conflict	100
@@ -1402,6 +1415,7 @@ cooperative	cooperative	100
 coordinate	coordinate	100
 cop	cop	100
 cope	cope	100
+copilot	copilot	100
 copper	copper	100
 copy	copy	100
 copyright	copyright	100
@@ -1826,6 +1840,7 @@ dorm	dorm	100
 dose	dose	100
 dot	dot	100
 doubt	doubt	100
+double	double	100
 doubtless	doubtless	100
 dove	dove	100
 down	down	100
@@ -1882,7 +1897,7 @@ dwell	dwell	100
 dwelling	dwelling	100
 dye	dye	100
 dynamic	dynamic	100
-dynamic(al)	dynamic(al)	100
+dynamical	dynamical	100
 dynamo	dynamo	100
 dynasty	dynasty	100
 each	each	100
@@ -2775,6 +2790,7 @@ herself	herself	100
 hesitate	hesitate	100
 hi	hi	100
 hide	hide	100
+hidden	hidden	100
 hierarchy	hierarchy	100
 high	high	100
 highland	highland	100
@@ -3207,7 +3223,6 @@ keen	keen	100
 keep	keep	100
 kernel	kernel	100
 kettle	kettle	100
-key	key	100
 keyboard	keyboard	100
 kick	kick	100
 kid	kid	100
@@ -3500,6 +3515,7 @@ marginal	marginal	100
 marine	marine	100
 marital	marital	100
 mark	mark	100
+markdown	markdown	100
 market	market	100
 marriage	marriage	100
 married	married	100
@@ -3527,6 +3543,7 @@ matlab	matlab	100
 matrix	matrix	100
 matter	matter	100
 mature	mature	100
+maven	maven	100
 maximum	maximum	100
 may	may	100
 maybe	maybe	100
@@ -3838,7 +3855,7 @@ normalization	normalization	100
 north	north	100
 northeast	northeast	100
 northern	northern	100
-northward(s)	northward(s)	100
+northward	northward	100
 northwest	northwest	100
 nose	nose	100
 not	not	100
@@ -3934,7 +3951,7 @@ oneself	oneself	100
 onion	onion	100
 only	only	100
 onto	onto	100
-onward(s)	onward(s)	100
+onward	onward	100
 opaque	opaque	100
 open	open	100
 opening	opening	100
@@ -4867,6 +4884,7 @@ revolt	revolt	100
 revolution	revolution	100
 revolutionary	revolutionary	100
 revolve	revolve	100
+revue	revue	100
 reward	reward	100
 rhythm	rhythm	100
 rib	rib	100
@@ -6343,7 +6361,6 @@ yearn	yearn	100
 yeast	yeast	100
 yell	yell	100
 yellow	yellow	100
-yes	yes	100
 yesterday	yesterday	100
 yet	yet	100
 yield	yield	100
